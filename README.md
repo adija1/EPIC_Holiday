@@ -2,7 +2,7 @@
 The code and stuff from the EPIC Holiday session - how to use Redshift data with Gen AI.
 
 # Introduction:
-EPIC Holiday is a fictitious Travel Agency that offers it's customers travel packages that comprosed of Flights, Hotels & Tickets to the hottest concerts! What sets them apart from competitiors is that they use Gen AI to deliver their customers a personalized experience from booking of the packages to post travel.
+EPIC Holiday is a fictitious Travel Agency that offers it's customers travel packages that comprised of Flights, Hotels & Tickets to the hottest concerts! What sets them apart from competitiors is that they use Gen AI to deliver their customers a personalized experience from booking of the packages to post travel.
 
 The session covers the following topics and services:
 
