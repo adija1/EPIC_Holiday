@@ -18,9 +18,9 @@ The session covers the following topics and services:
 2. Sentiment analysis using Redshift ML capabilites.
    Components:
    - Redshift cluster with customers tables and reviews.
-   - SageMaker Jumpstart for deploying Falcon 7B Instruct.
-   The entire setup is here:
-   https://aws.amazon.com/blogs/big-data/large-language-models-for-sentiment-analysis-with-amazon-redshift-ml-preview/
+   - Amazomn Bedrock.
+   Used the following documentation:
+   https://docs.aws.amazon.com/redshift/latest/dg/machine-learning-br.html
 
 3. Automatic email drafting according to review / sentiment analysis
    Components:
