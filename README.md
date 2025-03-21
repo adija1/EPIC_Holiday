@@ -14,6 +14,7 @@ The session covers the following topics and services:
    The entire end to end setup is here:
    https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/
    In the actual presentation done by Liat Tzur & Adi Jabkowsky the model being used is Claude Haiku 3 and the modified code can be found in this repo as travel_planner.py
+https://github.com/adija1/travel_chatbot
 
 2. Sentiment analysis using Redshift ML capabilites.
    Components:
